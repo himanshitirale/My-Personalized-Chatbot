@@ -1,0 +1,6 @@
+{
+  "name": "MyPersonal AI – Personalized AI Assistant Chatbot",
+  "description": "A smart, personalized AI assistant chatbot that remembers your preferences, provides customized explanations, and manages conversations with persistent local memory.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
